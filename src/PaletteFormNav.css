@@ -1,0 +1,10 @@
+.navBtns{
+    margin-right: 1rem;
+}
+.navBtns a{
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+.paletteFormNav{
+    display: flex;
+}

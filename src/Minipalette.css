@@ -1,0 +1,53 @@
+.main{
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.5rem;
+    position: relative;
+    cursor: pointer;
+}
+.main:hover .delete-icon{
+    opacity: 1;
+}
+.colors{
+    background-color: grey;
+    height: 150px;
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.minicolor{
+    height: 25%;
+    width: 20%;
+    display: inline-block;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: -4px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    color: black;
+    padding-top: 0.5rem;
+    font-size: 1rem;
+    position: relative;
+}
+.emoji{
+    margin-left: 0.5rem;
+    font-size: 1.5rem;
+}
+.delete-icon{
+    background-color: #eb3d30;
+    color: white;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 10;
+    padding: 10px;
+    opacity: 0;
+    transition: all 0.3s ease-in-out !important;
+}
