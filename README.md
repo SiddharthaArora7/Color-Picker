@@ -1,6 +1,7 @@
-#REACT COLOR PICKER 
+# REACT COLOR PICKER 
 
-A Clone of Websites like [Material UI Colors](http://materialuicolors.co/?utm_source=launchers) and [Flat UI Colors](https://flatuicolors.com/)
+* A Clone of Websites like [Material UI Colors](http://materialuicolors.co/?utm_source=launchers) and [Flat UI Colors](https://flatuicolors.com/)
+* https://reactcolorpickerr.netlify.app/
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/98833695/218175917-22464584-5a32-4186-81dd-8cee341c0746.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/98833695/218176709-2f8cf7dc-c5da-412b-9e11-da22e72ae26f.png)
