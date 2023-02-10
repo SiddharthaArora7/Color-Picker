@@ -1,5 +1,7 @@
 Color Picker 
 
+https://user-images.githubusercontent.com/98833695/218175520-39bb6608-e5da-4646-ad0e-1ad077fcbeeb.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
