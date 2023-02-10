@@ -1,7 +1,9 @@
-Color Picker 
+REACT COLOR PICKER 
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/98833695/218175917-22464584-5a32-4186-81dd-8cee341c0746.png)
-
+![Screenshot (2)](https://user-images.githubusercontent.com/98833695/218176085-3d1c5b68-ba21-43a3-a414-7754997b649d.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/98833695/218176221-a6dedcde-0041-4616-9701-8871454d47dd.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/98833695/218176279-1a961760-ffba-4de6-b186-cdac8cdd3611.png)
 
 https://user-images.githubusercontent.com/98833695/218175520-39bb6608-e5da-4646-ad0e-1ad077fcbeeb.png
 
